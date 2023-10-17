@@ -1,0 +1,33 @@
+.dropdown {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin: 1rem 0;
+    background-color: #282828;  
+    /* border: 1px solid #e2eded;
+    border-color: #eaf1f1 #e4eded #dbe7e7 #e4eded; */
+
+}
+
+.dropdown label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.dropdown select {
+    padding: 0.5rem 2rem;
+    border: 1rem;
+    border-color: aliceblue;
+    background-color: #282828;
+    font-family: 'Graphik';
+    font-size: 22px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: #CCCCCC;
+    margin: 0 auto;
+    height: 53px;
+}
+.dropdown select option{
+    border: 1px solid #282828;
+    
+}

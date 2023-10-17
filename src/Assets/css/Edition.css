@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@300&family=Poppins:wght@700&display=swap');
+
+body {
+    height: 100%;
+    width: 100%;
+
+}
+
+.edition {
+    background-color: #222121;
+    height: 82.5vh;
+    width: 250%;
+    padding-top: 8rem;
+    overflow-y: hidden;
+}
+
+.edition-navbar {
+    background-color: #222121;
+}
+
+.arrow {
+    position: absolute;
+    width: auto;
+}
+
+.arrow .right {
+    position: relative;
+    left: 104rem;
+    top: 31rem;
+    cursor: pointer;
+    background-color: rgb(189, 182, 182);
+    border-radius: 2.9rem;
+    transform: rotate(180deg);
+}
+
+.animate {
+    animation: animate 1s forwards;
+
+}
+
+.arrow .left {
+    position: relative;
+    cursor: pointer;
+    left: 35rem;
+    top: 31rem;
+    background-color: rgb(189, 182, 182);
+    border-radius: 2.9rem;
+    opacity: 0;
+}
+
+.maincard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25rem;
+    padding-top: 2rem;
+    transition: all 1.5s;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 55rem;
+    width: 42rem;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    padding-left: 4rem;
+}
+
+.card-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 38rem;
+    font-size: 1.2rem;
+}
+
+.card-text h1 {
+    font-size: 3.5rem;
+    color: white;
+    border-radius: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-text h4 {
+    width: fit-content;
+    border: 1px solid white;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#first {
+    margin-top: 10px;
+    height: 430px;
+    width: 290px;
+    padding: 4rem;
+}
+
+.cards img {
+    object-fit: fill;
+    width: 33.6rem;
+    height: 550px;
+    border-radius: 10px;
+    transition: 0.2s linear;
+    background-color: white;
+    border: white 2px solid;
+}
+
+.maincard .fourth {
+    margin-left: -3rem;
+
+}
+
+.cards .block {
+    display: flex;
+    flex-direction: row;
+    gap: 3.4rem;
+    margin: 0;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.block h3 {
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 9rem;
+    justify-content: center;
+    align-items: center;
+    height: 2.6rem;
+    border-radius: 5rem;
+}
+
+.block a {
+    text-decoration: none;
+}
+
+@keyframes animate {
+    0% {
+        opacity: 0;
+
+    }
+
+    90% {
+        opacity: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+
+    .arrow .left {
+        left: 21rem;
+    }
+
+    .arrow .right {
+        left: 58.8rem;
+    }
+
+    .maincard {
+        gap: 8%;
+    }
+
+    .card-text {
+        width: 250px;
+    }
+}
+
+@media only screen and (max-width: 1186px) {
+    .arrow .right {
+        left: 51rem;
+    }
+
+    .arrow .left {
+        left: 18rem;
+    }
+
+    .maincard {
+        gap: 6.5%;
+    }
+
+    .card-text {
+        width: 250px;
+    }
+
+    .cards img {
+        width: 300px;
+    }
+
+}
+
+@media only screen and (max-width: 800px) {
+    .edition {
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+
+    .maincard {
+        align-items: center;
+    }
+
+    #first .firstimg {
+        object-fit: cover;
+        width: 200px;
+        border-radius: 10px;
+        height: 300px;
+        margin-bottom: 9.6rem;
+    }
+
+    .card-text {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #first {
+        object-fit: cover;
+        width: 24.6rem;
+        height: 29rem;
+        border-radius: 10px;
+        margin-bottom: 9.6rem;
+    }
+
+    .cards img {
+        width: 20rem;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+
+    .arrow .right {
+        left: 39rem;
+    }
+
+    .arrow .left {
+        left: 16rem;
+    }
+
+    .maincard {
+        display: flex;
+        align-items: center;
+        gap: 4.6%;
+    }
+
+    .cards {
+        width: auto;
+    }
+
+    .card-text {
+        width: 250px;
+    }
+
+    .cards img {
+        width: 19.6rem;
+    }
+}

@@ -1,0 +1,39 @@
+.phone-edition {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 92vh;
+}
+
+.current-edition {
+    width: 32rem;
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+}
+
+.edition-text {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.edition-img {
+    height: 40rem;
+    width: 30rem;
+    margin: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 2rem;
+    border-color: grey;
+    border-width: 1rem;
+}
+
+.carousel-components {
+    height: 15rem;
+    width: 12rem;
+    border-radius: 1rem;
+    color: green;
+}
+
+.rec .kvrXoZ {
+    display: none;
+}

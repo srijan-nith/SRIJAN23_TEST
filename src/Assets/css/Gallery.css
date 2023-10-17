@@ -1,0 +1,12 @@
+.grid-container {
+    padding: 2rem;
+    background-color: black;
+}
+
+.gallery-navbar {
+    background-color: black;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
