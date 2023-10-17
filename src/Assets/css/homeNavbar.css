@@ -1,0 +1,105 @@
+body {
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+.H-navbar {
+  margin-right: 2.5rem;
+}
+
+.navbar-container {
+  width: 12rem;
+  height: 24rem;
+  display: flex;
+  justify-content: right;
+  align-items: flex-end;
+  flex-direction: column;
+  float: right;
+}
+
+.none {
+  display: none;
+  transition: 1s;
+}
+
+.show {
+  display: block;
+  transition: 1s;
+}
+
+.bar {
+  animation: move 0.7s 1 forwards;
+}
+
+.cross {
+  animation: remove 0.7s 1 backwards;
+}
+
+.btn {
+  position: absolute;
+  top: 0;
+  margin-top: 2rem;
+  right: 1.5rem;
+  color: white;
+  background-color: black;
+  border: none;
+}
+
+.btn2 {
+  position: absolute;
+  top: 0;
+  margin-top: 2rem;
+  right: 1.5rem;
+  color: white;
+  background-color: black;
+  border: none;
+}
+
+.navbar-container ul {
+  margin-top: 25rem;
+  height: 10rem;
+  margin-right: -20rem;
+}
+
+.navbar-container ul li {
+  padding: 0.9rem 1.4rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.navbar-container ul li:hover {
+  font-weight: 600;
+}
+
+.navbar-container ul li span {
+  margin-left: 1.3rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0;
+  color: rgba(white, white, white, white);
+}
+
+@keyframes move {
+  0% {
+    margin-right: -20rem;
+  }
+
+  100% {
+    margin-right: 0rem;
+    transition: 1s;
+  }
+
+}
+
+@keyframes remove {
+  0% {
+    margin-right: 0rem;
+  }
+
+  100% {
+    margin-right: -20rem;
+  }
+
+}
