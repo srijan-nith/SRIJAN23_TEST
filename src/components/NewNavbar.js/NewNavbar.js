@@ -22,11 +22,11 @@ const Navbar = () => {
                     <NavLink to="/team" className="nav-links">OUR TEAM</NavLink>
                     <NavLink to="/gallery" className="nav-links">GALLERY</NavLink>
                     <button className="nav-btn nav-close-btn" onClick={showNavBar}>
-                        <FaTimes />
-                    </button>
+                        <FaTimes /> 
+                    </button> 
             </nav>
             <button className="nav-btn" onClick={showNavBar}>
-                <FaBars />
+                 <FaBars /> 
             </button>
         </header>
     );

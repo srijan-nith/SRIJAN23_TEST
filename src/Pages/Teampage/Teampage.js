@@ -8,13 +8,14 @@ import HeroCards from './HeroCards';
 
 const Teampage = () => {
 
-    const [filteredYear, setFilteredYear] = useState("1");
-    console.log("selected year " + filteredYear);
+    const [filteredYear, setFilteredYear] = useState("0");
+    //console.log("selected year " + filteredYear);
     // console.log(typeof({filteredYear}));
 
     const filterChangeHandler = (event) => {
         setFilteredYear(event);
     };
+
     const year = parseInt(filteredYear);
     return (
         <>

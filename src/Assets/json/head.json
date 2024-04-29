@@ -1,0 +1,48 @@
+[
+{
+    "name": "Aryan Sehgal",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713025331/SRIJAN2023/Responses/aryan-sehgal-pic_iqljft.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713025331/SRIJAN2023/Responses/aryan-sehgal-pic_iqljft.jpg",
+    "github": "",
+    "linkedin": "",
+    "insta": "https://www.instagram.com/its_sehgal_aryan_/",
+    "designation":"Cheif Editor"
+}, {
+    "name": "Shreya Dubey",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780012/SRIJAN2023/Responses/df3jwwy7vag3m9hgbxqg.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780012/SRIJAN2023/Responses/df3jwwy7vag3m9hgbxqg.jpg",
+    "github": "",
+    "linkedin": "https://in.linkedin.com/in/shreyadubey02",
+    "insta": "https://www.instagram.com/@ohraysanatomies",
+    "designation":"English Head"
+}, {
+    "name": "Shashwat Sood",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027748/SRIJAN2023/Responses/shashwat-pic_mabrdo.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027748/SRIJAN2023/Responses/shashwat-pic_mabrdo.jpg",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/shashwat-sood-7233a91a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "insta": "https://www.instagram.com/_shashwatsood?igsh=cGxiZXE3bGEwdmJs&utm_source=qr",
+    "designation":"Design Head"
+}, {
+    "name": "Raghav Agarwal",
+    "title": "",
+    "background": "data:image/png;base64,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",
+    "foreground": "data:image/png;base64,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",
+    "github": "",
+    "linkedin": "",
+    "insta": "https://www.instagram.com/rishu_raghav/",
+    "designation":"Media Head"
+}, {
+    "name": "Namrata Yadav",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713025332/SRIJAN2023/Responses/namrata-yadav-pic_gp8n0t.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713025332/SRIJAN2023/Responses/namrata-yadav-pic_gp8n0t.jpg",
+    "github": "",
+    "linkedin": "",
+    "insta": "",
+    "designation":"Hindi Head"
+}
+]

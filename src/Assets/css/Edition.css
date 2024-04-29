@@ -3,7 +3,7 @@
 body {
     height: 100%;
     width: 100%;
-
+    
 }
 
 .edition {
@@ -136,6 +136,7 @@ body {
 
 .block a {
     text-decoration: none;
+    color: black;
 }
 
 @keyframes animate {

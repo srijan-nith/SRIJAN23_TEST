@@ -10,16 +10,16 @@ const Dropdown = (props) => {
     return (
       <>
         <div className="dropdown">
-          <select onChange={dropdownChangeHandler} >
-            <option value="3">2023</option>
-            <option value="2">2022</option>
-            <option value="1">2021</option>
-            <option value="0">2020</option>
-            <option value="2019">2019</option>
+          <select className="dropSelect" onChange={dropdownChangeHandler} >
+            <option value="0">Heads</option>
+            <option value="1">Managing Members</option>
+            <option value="2">Executive Members</option>
+            <option value="3">Associate Members</option>
+            <option value="4">Volunteers</option>
           </select>
         </div>
       </>
     );
   };
   
-  export default Dropdown;
+  export default Dropdown;  

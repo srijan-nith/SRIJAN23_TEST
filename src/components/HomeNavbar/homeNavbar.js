@@ -31,7 +31,7 @@ const HomeNavbar = () => {
         </div>
         <button onClick={removed} className="btn2 none"><FaTimes /></button>
         <ul>
-          <a href='/'><li>home</li></a>
+          {/* <a href='/'><li>home</li></a> */}
           <a href='editions'><li>editions </li></a>
           <a href='/contributions'><li>contributions</li></a>
           <a href='/team'> <li>our team</li></a>

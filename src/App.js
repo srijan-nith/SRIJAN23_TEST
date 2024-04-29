@@ -9,7 +9,7 @@ import Gallery from './Pages/Gallery/Gallery';
 import Edition from './Pages/Editions/Edition';
 
 function App() {
-  const isPhone = window.innerWidth <= 700;
+  // const isPhone = window.innerWidth <= 700;
   return (
     <Router>
       <Routes>

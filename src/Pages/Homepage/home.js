@@ -19,7 +19,7 @@ const Home = () => {
             </div>
 
             <div className='content'>
-                <img src={bgImg} className='content-bg' alt='background.png' />
+                {/* <img src={bgImg} className='content-bg' alt='background.png' /> */}
                 <div className='text-content'>
                     <h2>ABOUT US</h2>
                     <p>SRIJAN is the official institute magazine of NIT Hamirpur, and as a team, we stand for freedom of self-expression, creativity, and critical thinking. All these years, we’ve worked to build an environment that is progressive and comprehensive. We have voiced our opinions on matters that are often hushed up and provided a safe space for people to be themselves without being judged or discouraged. We have actively called out draconian cultures which can be discriminatory, disrespectful or simply illogical and have always strived to become more rational, unbiased and inclusive. SRIJAN lives by its ideals and will surely live up to the expectations of its readers.

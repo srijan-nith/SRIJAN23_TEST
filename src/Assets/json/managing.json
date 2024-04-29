@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Arsh Aggarwal",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027622/SRIJAN2023/Responses/Arsh_Aggarwal_dldyn9.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027622/SRIJAN2023/Responses/Arsh_Aggarwal_dldyn9.jpg",
+        "github": "",
+        "linkedin": "http://linkedin.com/in/arshaggarwal25",
+        "insta": "https://www.instagram.com/arshaggarwal25?igsh=aXZzempkcHR4dzFz",
+        "designation":"Managing Editor"
+    }, {
+        "name": "Mridul Chauhan",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713279726/SRIJAN2023/Responses/Mridul-pic_o75hce.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713279726/SRIJAN2023/Responses/Mridul-pic_o75hce.jpg",
+        "github": "",
+        "linkedin": "linkedin.com/in/mridul-chauhan-00748320a",
+        "insta": "https://www.instagram.com/tomboy_towngirl",
+        "designation":"Managing Editor"
+    }, {
+        "name": "Ayush",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779947/SRIJAN2023/Responses/lxpnl42goz5isenbsutn.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779947/SRIJAN2023/Responses/lxpnl42goz5isenbsutn.jpg",
+        "github": "",
+        "linkedin": "https://www.linkedin.com/me?trk=p_mwlite_me_notifications-secondary_nav",
+        "insta": "Instagram.com/verma_ayush16",
+        "designation":"Managing Editor"
+    }, {
+        "name": "Sidharth",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027617/SRIJAN2023/Responses/sidhart-pic-1_irmsms.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027617/SRIJAN2023/Responses/sidhart-pic-1_irmsms.jpg",
+        "github": "",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/it_aint_sid?igsh=ejFmZmk2NnZmajU3",
+        "designation":"Managing Member"
+    }, {
+        "name": "Abhi khandelwal",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027995/SRIJAN2023/Responses/abhi-pic_zix5me.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027995/SRIJAN2023/Responses/abhi-pic_zix5me.jpg",
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/abhi-khandelwal-30b06a190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/__abhi_khandelwal?igsh=bjE2MXI5bzI0dzhl",
+        "designation":"Managing Member"
+    }, {
+        "name": "Manan Pathania",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027997/SRIJAN2023/Responses/manan-pic_ejhyiv.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027997/SRIJAN2023/Responses/manan-pic_ejhyiv.jpg",
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/manan-pathania-027968214",
+        "insta": "https://instagram.com/hypnagogic.hallucinations?utm_source=qr&igshid=OGIxMTE0OTdkZA==",
+        "designation":"Managing Member"
+    }
+]

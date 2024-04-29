@@ -12,7 +12,7 @@
     "react-elastic-carousel": "^0.11.5",
     "react-icons": "^4.8.0",
     "react-responsive-masonry": "^2.1.7",
-    "react-router-dom": "^6.9.0",
+    "react-router-dom": "^6.21.3",
     "react-scripts": "5.0.1",
     "styled-components": "^6.0.7",
     "swiper": "^10.0.3",
@@ -41,5 +41,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

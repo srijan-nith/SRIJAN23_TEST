@@ -16,6 +16,12 @@ body {
   height: 2rem;
 }
 
+@media screen and (max-width: 480px) {
+  .logo {
+    height: 20rem;
+  }
+}
+
 .background-image {
   position: relative;
   left: 24%;
